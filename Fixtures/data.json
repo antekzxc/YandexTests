@@ -1,0 +1,6 @@
+{
+  "validloginName": "testsurnamet@yandex.by",
+  "validPassword": "QWEqwe123",
+  "invalidLoginName": "QWE qwe 123",
+  "emptyPassword": ""
+}
